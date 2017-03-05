@@ -1,0 +1,124 @@
+@font-face {
+	font-family: "PixelMaster";
+	src: url('../fonts/PixelMaster.ttf');
+}
+
+body {
+	font-family: "PixelMaster";
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#game {
+	display: inline-block;
+	background-color: #ffffff;
+	margin-top: 40px;
+	box-shadow: 0 0 50px 0 #656565;
+	border-radius: 8px;
+}
+
+#head {
+	position: relative;
+	padding-bottom: 3px;
+}
+
+#screenAll {
+	display: table;
+	text-align: justify;
+}
+
+#screenAll a {
+	color: #000000;
+	text-decoration: none;
+}
+
+#screenAll a:hover {
+	text-decoration: underline;
+}
+
+#left {
+	width: 25%;
+	display: table-cell;
+	padding-left: 14px;
+	padding-bottom: 12px;
+	text-align: left;
+	vertical-align: top;
+}
+
+#right {
+	width: 25%;
+	display: table-cell;
+	padding-right: 14px;
+	padding-bottom: 12px;
+	text-align: right;
+	vertical-align: top;
+}
+
+#clock {
+	width: 25%;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	padding-bottom: 12px;
+}
+
+
+
+
+#menu {
+	display: none;
+	text-align: center;
+	padding-bottom: 9px;
+	color: #919191;
+}
+
+#menu a {
+	color: black;
+	text-decoration: none;
+	margin: 0 5px;
+}
+
+#menu a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+#buttons {
+	display: none;
+	position: absolute;
+	left: 10px;
+	color: #919191;
+}
+
+#buttons a {
+	color: black;
+	text-decoration: none;
+}
+
+#buttons a:hover {
+	text-decoration: underline;
+}
+
+#sharing {
+	margin-top: 38px;
+}
+
+.twitter-share-button {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 7px;
+}
+
+.fb-share-button {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 7px;
+}
+
+.fb-share-button span,
+.fb-share-button iframe {
+	width: 88px !important;
+	height: 20px !important;
+}
