@@ -26,4 +26,4 @@ Player 2: <kbd>e</kbd> <kbd>d</kbd> <kbd>s</kbd> <kbd>f</kbd>
 ## Team students
 
 - [Loïc Divad](https://github.com/DivLoic)
-- [Matthieu Puibaraud](https://github.com/DivLoic)
+- [Matthieu Puibaraud](https://github.com/mattp94)
