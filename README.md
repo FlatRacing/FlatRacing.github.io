@@ -6,7 +6,7 @@ A pretty game developed as part of a student module (Programming & Algorithms fr
 
 ## Let's play
 
-Come on, click [here](http://flatracing.github.io/) to play!
+Come on, click [here](http://mattp94.github.io/FlatRacing/) to play!
 
 
 
